@@ -22,7 +22,7 @@ Altere o código do exercío que estamos desenvolvendo desde a [segunda aula](..
 * Todos os atributos devem ser privados.
 * Crie métodos _getters_ e _setters_ para todos os atributos.
 * Crie um **construtor padrão** que, por sua vez, inicializa o `nome` como valor "Mario Bros", a `idade` com `40`, a `estamina` com `100` e a `altura` com `1.50`.
-* Crie um contrutor que, por sua vez, recebe o `nome`, a `idade` e a `altura` do Mario. Os demais atributos devem ser inicializados como descrito no contrutor padrão.
+* Crie um construtor que, por sua vez, recebe o `nome`, a `idade` e a `altura` do Mario. Os demais atributos devem ser inicializados como descrito no construtor padrão.
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario e teste sua implementação.
 
